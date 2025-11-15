@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "screw-1",
+      "type": "screw",
+      "description": "A phillips head wood screw with a coarse thread.",
+      "imageUrl": "https://images.unsplash.com/photo-1614424655314-2ff8c8a54196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2NyZXclMjBtZXRhbHxlbnwwfHx8fDE3NjMyMTc1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "screw metal"
+    },
+    {
+      "id": "bolt-1",
+      "type": "bolt",
+      "description": "A hex head machine bolt with a nut.",
+      "imageUrl": "https://images.unsplash.com/photo-1678851065609-ac039207c2e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxib2x0JTIwbWV0YWx8ZW58MHx8fHwxNzYzMjE3NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bolt metal"
+    },
+    {
+      "id": "washer-1",
+      "type": "washer",
+      "description": "A standard flat metal washer.",
+      "imageUrl": "https://images.unsplash.com/photo-1673833114586-f951168be369?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3YXNoZXIlMjBtZXRhbHxlbnwwfHx8fDE3NjMyMTc1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "washer metal"
+    },
+    {
+      "id": "nail-1",
+      "type": "nail",
+      "description": "A common construction nail with a flat head.",
+      "imageUrl": "https://images.unsplash.com/photo-1615743112794-109b4089b312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxuYWlsJTIwbWV0YWx8ZW58MHx8fHwxNzYzMjE3NTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nail metal"
+    },
+    {
+      "id": "rock-1",
+      "type": "unidentified",
+      "description": "A small, gray, unidentified rock.",
+      "imageUrl": "https://images.unsplash.com/photo-1656612182865-1822c6f48163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyb2NrJTIwc3RvbmV8ZW58MHx8fHwxNzYzMjE3NTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rock stone"
+    },
+    {
+      "id": "screw-2",
+      "type": "screw",
+      "description": "A flat head screw, likely for drywall.",
+      "imageUrl": "https://images.unsplash.com/photo-1614424428282-b2b1e72c6a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY3JldyUyMG1ldGFsfGVufDB8fHx8MTc2MzIxNzUzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "screw metal"
+    }
+  ]
+}
