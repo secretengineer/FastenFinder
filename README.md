@@ -1,4 +1,4 @@
-# SortMaster: AI-Powered Hardware Sorting System
+# FastenFinder: An AI-Powered Mechanical Hardware Sorting System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-15-black.svg?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A sophisticated, AI-driven application designed to automate the identification and sorting of small hardware components.
+  A sophisticated, AI-driven application designed to automate the identification and sorting of small hardware components. Useful for sorting and inventory management of items like screws, bolts, and washers in a workshop or fabrication facility. 
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ## 🚀 Introduction
 
-**SortMaster** is an intelligent system that simulates an automated industrial sorting line. It leverages the power of generative AI to analyze a video stream of hardware items (like screws, bolts, and washers), identify them in real-time, and generate instructions for a sorting robot.
+**FastenFinder** is an intelligent system that simulates an automated industrial sorting line. It leverages the power of generative AI to analyze a video stream of hardware items (like screws, bolts, and washers), identify them in real-time, and generate instructions for a sorting robot.
 
 This application provides a user-friendly dashboard to monitor the entire process, from the live camera feed to detailed logs and inventory tracking, offering a glimpse into the future of automated quality control and logistics.
 
@@ -116,8 +116,8 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/sortmaster.git
-    cd sortmaster
+    git clone https://github.com/secretengineer/FastenFinder.git
+    cd FastenFinder
     ```
 2.  Install NPM packages:
     ```sh
