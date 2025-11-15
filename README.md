@@ -31,7 +31,7 @@
 
 ## 🚀 Introduction
 
-**FastenFinder** is an intelligent system that simulates a proof-of-concept applicationi for an automated industrial sorting line. It leverages the power of generative AI to analyze a video stream of hardware items (like screws, bolts, and washers), identify them in real-time, and generate instructions for a sorting robot.
+**FastenFinder** is an intelligent system that simulates a proof-of-concept application for an automated industrial sorting line. It leverages the power of generative AI to analyze a video stream of hardware items (like screws, bolts, and washers), identify them in real-time, and generate instructions for a sorting robot.
 
 This application provides a user-friendly dashboard to monitor the entire process, from the live camera feed to detailed logs and inventory tracking, solving an age-old shop problem of what to do with random containers of assorted, left-over hardware. Instead of manually sorting through bins of mixed fasteners, FastenFinder automates the identification and categorization process, making it simple to find and utilize leftover hardware efficiently; a huge money and time saver for any home workshop or fabrication facility.
 
